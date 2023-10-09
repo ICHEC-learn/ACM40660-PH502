@@ -14,3 +14,4 @@ Lecture Videos:
 Practical Recording:
 -------------------
 1. Practical2: https://media.heanet.ie/page/bf45f1d0e8084966bb83e411856d972a 
+2. Git Assignment: https://media.heanet.ie/page/5a7af94933044e52ac0eadec99471484
